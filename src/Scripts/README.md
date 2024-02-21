@@ -1,4 +1,4 @@
-This folder contains 4 python script. The description for each of these is below:
+This folder contains 4 python script. The description for each of these is mentioned below:
 
 1. **query_yt_api.py**: This Python script is designed to fetch information about the 10 most popular videos from a specified YouTube channel using the YouTube API. The collected data is then written into a text file named 'videos.txt'. To execute this script, use the command: python query_yt_api.py
 
