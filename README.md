@@ -1,6 +1,4 @@
 ﻿# youtube-kids-ads-www24
-# test
-
 This project involves analyzing ads that play on kids content on Youtube.
 We aim to collect data from the most popular videos on Youtube and assess their appropriateness and relevance for child viewership (children under 9).
 
