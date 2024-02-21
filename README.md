@@ -141,9 +141,17 @@ Directory Structure
 |    |
 |    └── Master Codebook Weighted.xlsx ~> excel file with all tagged ads + tag aggregates
 |
-└── src
-    ├── 
-    ├──
-    └── 
+└── src/
+|   ├── scripts/
+|   |   ├── query_yt_api.py
+|   |   ├── script_final.py
+|   |   ├── script_final_EU.py
+|   └── └── view_counts.py
+| 
+└── analysis/
+|   |   ├── Final Quantitative Analysis.ipynb
+|   |   └── Final Quantitative Analysis.py
+|   └──
+└──
 ```
 
