@@ -94,6 +94,11 @@ Directory Structure
 |               ├── Venezuela_unlabelled.csv 
 |               ├── ad_Details_Venezuela_unlabelled.csv
 │               └── unique_vid_Venezuela_unlabelled.csv
+├── codebook
+|    ├── labelled
+|    ├── unlabelled
+|    └── Master Codebook Weighted.xlsx ~> excel file with all tagged ads + tag aggregates
+|
 └── src
     ├── 
     ├──
